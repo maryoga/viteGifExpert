@@ -1,4 +1,4 @@
-//
+// Componente principal Agrega Categoría de imagenes
 import { useState } from 'react';
 import { AddCategory, GifGrid } from './components';
 
