@@ -8,4 +8,4 @@ Contains the React GifExpertApp project repository
 I use the following Technology Stack
 React 18
 Vite
-I run the project with yarn# vite-react-gif-expert
+I run the project with yarn vite-react-gif-expert
