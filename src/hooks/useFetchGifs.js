@@ -1,4 +1,4 @@
-// Custom hooks - Obtiene las imagenes pero antes envia un mensaje de cargando
+// Custom hooks - Obtiene las imagenes pero antes envia un mensaje de carga
 import { useEffect, useState } from 'react';
 import { getGifs } from '../helpers/getGifs';
 
